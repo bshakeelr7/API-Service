@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+sqlalchemy
+alembic
+psycopg2-binary
+pydantic
+minio
+torch
+Pillow
+numpy
+requests
+streamlit
+tensorflow
+git+https://github.com/openai/CLIP.git@main
+ultralytics
