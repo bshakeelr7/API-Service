@@ -13,7 +13,7 @@ except Exception as e:
     model = None
     preprocess = None
 
-DEFAULT_LABELS = ["brain", "chest", "skin", "derma"]
+DEFAULT_LABELS = ["brain", "chest", "alzheimer", "skin", "irrelevant"]
 
 def classify_image_pil(image_pil: Image.Image, labels=None):
     if model is None or preprocess is None:

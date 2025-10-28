@@ -25,5 +25,17 @@ LABEL_MAPPINGS = {
         "VeryMildImpairment": "Yes",
         "ModerateImpairment": "Yes",
         "NoImpairment": "No"
-    }
+    },
+    "skin": {
+        "Actinic keratosis": "Yes",
+        "Atopic Dermatitis": "Yes",
+        "Benign keratosis": "Yes",
+        "Candidiasis Ringworm Tinea": "Yes",
+        "Dermatofibroma": "Yes",
+        "Melanocytic nevus": "Yes",
+        "Melanoma": "Yes",
+        "Squamous carcinoma cell": "Yes",
+        "Vascular lesion": "Yes"
+    },
+
 }
