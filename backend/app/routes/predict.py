@@ -1,4 +1,3 @@
-
 from fastapi import APIRouter, UploadFile, File, HTTPException
 from PIL import Image
 from ..services.inference_service import do_inference

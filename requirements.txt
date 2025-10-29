@@ -14,3 +14,4 @@ streamlit
 tensorflow
 git+https://github.com/openai/CLIP.git@main
 ultralytics
+timm

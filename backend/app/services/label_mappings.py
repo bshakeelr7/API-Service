@@ -20,12 +20,7 @@ LABEL_MAPPINGS = {
         "ModerateDemented": "Yes",
         "NoDemented": "No"
     },
-    "alzheimer_cnn": {
-        "MildImpairment": "Yes",
-        "VeryMildImpairment": "Yes",
-        "ModerateImpairment": "Yes",
-        "NoImpairment": "No"
-    },
+
     "skin": {
         "Actinic keratosis": "Yes",
         "Atopic Dermatitis": "Yes",
